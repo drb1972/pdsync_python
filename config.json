@@ -1,0 +1,15 @@
+{
+    "hlq" : [
+        "TSOID.GIT.REX*",
+        "TSOID.GIT.JCL*"
+    ],
+    "cycle": "1",
+    "master_prof" : "zosmf-mstr",
+    "target_prof" :[
+        "zosmf-ipo1",
+        "zosmf-ipo2",
+        "zosmf-ipo3"
+    ],
+    "stop"        : "N",
+    "ghrepo"      : "https://github.com/drb1972/demo.git"
+ }
